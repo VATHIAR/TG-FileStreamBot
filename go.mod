@@ -32,7 +32,7 @@ require (
 	github.com/klauspost/compress v1.17.9 // indirect
 	github.com/ncruces/go-strftime v0.1.9 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/remyoudompheng/bigfft // indirect
+	github.com/remyoudompheng/bigfft latest// indirect
 	github.com/segmentio/asm v1.2.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	go.opentelemetry.io/otel v1.28.0 // indirect
